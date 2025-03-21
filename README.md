@@ -1,3 +1,3 @@
 # Climate
 
-## url ; https://hamsatharuman.github.io/Climate/
+## URL : https://hamsatharuman.github.io/Climate/
